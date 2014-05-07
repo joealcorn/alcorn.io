@@ -1,0 +1,23 @@
+html {
+    background-color: #e9e9e9;
+    color: #625e5e;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+a {
+    color: #008cba;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #0078a0;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+p {
+    font-weight: 400;
+}
